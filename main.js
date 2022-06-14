@@ -1,0 +1,1 @@
+let minutes = document.querySelector('.minutes')
